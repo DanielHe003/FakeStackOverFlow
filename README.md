@@ -1,6 +1,3 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/tRxoBzS5)
-Add design docs in *images/*
-
 ## Instructions to setup and run project
 1. The init/js file takes in two arguments the first argument should be the admin's email and the second arguemnt takes in the password for the admins account. ex. nodemon server/init.js admin@gmail.com password
 2. next start the server by running nodemon server/server.js
